@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TanmayUdupa
 - 👀 I’m interested in Programming and Computer Science
-- 🌱 I’m currently learning CS50
+- 🌱 I'm currently learning DSA
 
 <!---
 TanmayUdupa/TanmayUdupa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
