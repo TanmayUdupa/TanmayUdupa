@@ -8,7 +8,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/tanmayudupa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tanmayudupa" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/tanmay udupa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tanmay udupa" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/tanmay-udupa-0b6364224/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tanmay udupa" height="30" width="40" /></a>
 <a href="https://fb.com/tanmay.udupa.1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tanmay.udupa.1" height="30" width="40" /></a>
 <a href="https://instagram.com/tanmay_udupa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tanmay_udupa" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCtUgZwxoAAMCTc1f3pTAaPw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/uctugzwxoaamctc1f3ptaapw" height="30" width="40" /></a>
