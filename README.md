@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tanmay</h1>
 <h3 align="center">A Computer Science student</h3>
 
-- 🌱 I’m currently learning **basics of C++**
+- 🌱 I’m currently learning **C++**
 
 - 📫 How to reach me **tanmaypraveenudupa@gmail.com**
 
